@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4855f6d1-d3d6-475c-aece-f5b8047aa5f9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1TsXmspg2PN4TCoZGRTKXvscJIu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowsbt.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="sbt.project.settings.configurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Alg">
+    <configuration name="Alg" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Alg" />
+      <module name="lab3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Paragraph" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Paragraph" />
+      <module name="lab3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCloud" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="WordCloud" />
+      <module name="lab3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Paragraph" />
+        <item itemvalue="Application.Alg" />
+        <item itemvalue="Application.WordCloud" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="lab3" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="lab3 [file:/Users/oleksiifurman/Developer/BigDataAlgorithms/lab3/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="lab3-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3148519985598" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1146551727" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3724303870" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="378" y="162" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1575538475017">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="378" y="162" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.800@0.0.1280.800" timestamp="1575538475017" />
+    <state x="-1496" y="-78" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578831629687">
+      <screen x="-1920" y="-280" width="1920" height="1080" />
+    </state>
+    <state x="-1496" y="-78" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800/-1920.-280.1920.1080@-1920.-280.1920.1080" timestamp="1578831629687" />
+    <state x="328" y="135" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575198497088">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="328" y="135" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.800@0.0.1280.800" timestamp="1575198497088" />
+    <state width="1238" height="266" key="GridCell.Tab.0.bottom" timestamp="1575624222795">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="266" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1575624222795" />
+    <state width="1238" height="201" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1575491055256" />
+    <state width="1238" height="266" key="GridCell.Tab.0.center" timestamp="1575624222794">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="266" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1575624222794" />
+    <state width="1238" height="201" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1575491055253" />
+    <state width="1238" height="266" key="GridCell.Tab.0.left" timestamp="1575624222794">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="266" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1575624222794" />
+    <state width="1238" height="201" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1575491055251" />
+    <state width="1238" height="266" key="GridCell.Tab.0.right" timestamp="1575624222795">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="266" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1575624222795" />
+    <state width="1238" height="201" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1575491055254" />
+    <state width="1238" height="263" key="GridCell.Tab.1.bottom" timestamp="1575219150344">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1575219150344" />
+    <state width="1238" height="263" key="GridCell.Tab.1.center" timestamp="1575219150343">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1575219150343" />
+    <state width="1238" height="263" key="GridCell.Tab.1.left" timestamp="1575219150343">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1575219150342" />
+    <state width="1238" height="263" key="GridCell.Tab.1.right" timestamp="1575219150343">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1575219150343" />
+    <state x="-1317" y="-14" key="new project wizard" timestamp="1578826821680">
+      <screen x="-1920" y="-280" width="1920" height="1080" />
+    </state>
+    <state x="-1317" y="-14" key="new project wizard/0.0.1280.800/-1920.-280.1920.1080@-1920.-280.1920.1080" timestamp="1578826821680" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1575544623930">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1575544623930" />
+  </component>
+</project>
